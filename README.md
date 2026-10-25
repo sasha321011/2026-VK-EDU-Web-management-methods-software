@@ -40,3 +40,13 @@ LTV = 390 рублей (чистая прибыль) * 1 (дисциплина) 
 Проект будет продаваться как облачный SaaS-сервис по лицензии ВУЗам.
 ## Lean Canvas
 <img width="1280" height="1001" alt="photo_2026-10-25_17-38-52" src="https://github.com/user-attachments/assets/1adc63cf-ae1a-41ec-b67f-5e95e6583292" />
+
+# Задание #3.
+### User stories:
+<img width="1142" height="1212" alt="image" src="https://github.com/user-attachments/assets/21059b8a-333f-46b3-83ba-1660b6d211c2" />
+
+### MVP и MLP:
+<img width="704" height="266" alt="Снимок экрана 2026-10-25 в 19 15 40" src="https://github.com/user-attachments/assets/bdf8b207-2a58-4c84-ad83-7c8d09cc9d7c" />
+
+### Функциональный и нефункциональные требования:
+<img width="853" height="330" alt="Снимок экрана 2026-10-25 в 19 16 52" src="https://github.com/user-attachments/assets/b7328752-1589-4500-8aa8-d2d95cfaa250" />
