@@ -50,3 +50,16 @@ LTV = 390 рублей (чистая прибыль) * 1 (дисциплина) 
 
 ### Функциональные и нефункциональные требования:
 <img width="853" height="330" alt="Снимок экрана 2026-10-25 в 19 16 52" src="https://github.com/user-attachments/assets/b7328752-1589-4500-8aa8-d2d95cfaa250" />
+
+# Задание #4.
+### DDD:
+<img width="404" height="616" alt="Снимок экрана 2026-11-08 в 14 23 05" src="https://github.com/user-attachments/assets/5e6f86cd-c984-4b24-8b2b-b9b20b941daa" />
+
+### BDD:
+<img width="592" height="348" alt="Снимок экрана 2026-11-08 в 14 33 37" src="https://github.com/user-attachments/assets/c14f8c19-7d0d-4cb8-9194-04bab4c686b5" />
+
+### API:
+<img width="187" height="768" alt="Снимок экрана 2026-11-08 в 14 25 52" src="https://github.com/user-attachments/assets/c3118f5e-225b-4abe-a139-15367253f7ff" />
+<img width="146" height="739" alt="Снимок экрана 2026-11-08 в 14 25 37" src="https://github.com/user-attachments/assets/e901dd93-5d13-444c-8bf6-0f2135f8cbf6" />
+<img width="182" height="627" alt="Снимок экрана 2026-11-08 в 14 25 18" src="https://github.com/user-attachments/assets/ad3fa2e1-73cd-40b4-97a2-5640aaad0a48" />
+
